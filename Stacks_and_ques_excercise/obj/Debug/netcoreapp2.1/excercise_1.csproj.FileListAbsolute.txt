@@ -1,0 +1,11 @@
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\bin\Debug\netcoreapp2.1\excercise_1.deps.json
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\bin\Debug\netcoreapp2.1\excercise_1.runtimeconfig.json
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\bin\Debug\netcoreapp2.1\excercise_1.runtimeconfig.dev.json
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\bin\Debug\netcoreapp2.1\excercise_1.dll
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\bin\Debug\netcoreapp2.1\excercise_1.pdb
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\obj\Debug\netcoreapp2.1\excercise_1.csprojAssemblyReference.cache
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\obj\Debug\netcoreapp2.1\excercise_1.csproj.CoreCompileInputs.cache
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\obj\Debug\netcoreapp2.1\excercise_1.AssemblyInfoInputs.cache
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\obj\Debug\netcoreapp2.1\excercise_1.AssemblyInfo.cs
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\obj\Debug\netcoreapp2.1\excercise_1.dll
+E:\Csharp_advacned\Stacks_and_ques_excercise\Stacks_and_ques_excercise\obj\Debug\netcoreapp2.1\excercise_1.pdb
